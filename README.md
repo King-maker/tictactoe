@@ -13,4 +13,4 @@ to run the code:
  2. turn xampp or wampp server on
  3. type localhost/tictactoe in the browser
  4. select src/
- 5. the is ready to play :)
+ 5. the game is ready to play :)
